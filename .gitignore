@@ -2,4 +2,4 @@ Frontend/music_app/node_modules
 env
 Dataset
 Models
-.env
+Backend/.env
