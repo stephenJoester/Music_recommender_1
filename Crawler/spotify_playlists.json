@@ -1,0 +1,349 @@
+{
+    "pop": [
+      {
+        "_comment" : "Pop right now",
+        "url" : "https://open.spotify.com/playlist/37i9dQZF1DWVlLVXKTOAYa",
+        "state" : "using"
+      },
+      {
+        "_comment" : "Just hits", 
+        "url" : "https://open.spotify.com/playlist/37i9dQZF1DXcRXFNfZr7Tp",
+        "state" : "using"
+      },
+      {
+        "_comment" : "Hit rewind",
+        "url" : "https://open.spotify.com/playlist/37i9dQZF1DX0s5kDXi1oC5",
+        "state" : "used"
+      },
+      {
+        "_comment" : "Today's top hits",
+        "url" : "https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM5M",
+        "state" : "using"
+      },
+      {
+        "_comment" : "Energy booster : pop",
+        "url" : "https://open.spotify.com/playlist/37i9dQZF1DX0vHZ8elq0UK",
+        "state" : "used"
+      },
+      {
+        "_comment" : "It's a hit",
+        "url" : "https://open.spotify.com/playlist/37i9dQZF1DWT1y71ZcMPe5",
+        "state" : "using"
+      },
+      {
+        "_comment" : "Viral hits",
+        "url" : "https://open.spotify.com/playlist/37i9dQZF1DX2L0iB23Enbq",
+        "state" : "used"
+      },
+      {
+        "_comment" : "Soft pop hits",
+        "url" : "https://open.spotify.com/playlist/37i9dQZF1DWTwnEm1IYyoj",
+        "state" : "used"
+      },
+      {
+        "_comment" : "Daily lift",
+        "url" : "https://open.spotify.com/playlist/37i9dQZF1DWU13kKnk03AP",
+        "state" : "using"
+      },
+      {
+        "_comment" : "Good vibes",
+        "url" : "https://open.spotify.com/playlist/37i9dQZF1DWYBO1MoTDhZI",
+        "state" : "using"
+      },
+      {
+        "_comment" : "Wake up happy",
+        "url" : "https://open.spotify.com/playlist/37i9dQZF1DX0UrRvztWcAU",
+        "state" : "used"
+      },
+      {
+        "_comment" : "Confidence boost",
+        "url" : "https://open.spotify.com/playlist/37i9dQZF1DX4fpCWaHOned",
+        "state" : "using"
+      },
+      {
+        "_comment" : "Soft 10s",
+        "url" : "https://open.spotify.com/playlist/37i9dQZF1DX1uHCeFHcn8X",
+        "state" : "using"
+      }
+    ],
+    "instrumental": [
+      {
+        "_comment" : "calm vibes",
+        "url" : "https://open.spotify.com/playlist/37i9dQZF1DX1s9knjP51Oa",
+        "state" : "using"
+      },
+      {
+        "_comment" : "peaceful piano",
+        "url" : "https://open.spotify.com/playlist/37i9dQZF1DX4sWSpwq3LiO",
+        "state" : "using"
+      },
+      {
+        "_comment" : "sleep",
+        "url" : "https://open.spotify.com/playlist/37i9dQZF1DWZd79rJ6a7lp",
+        "state" : "using"
+      },
+      {
+        "_comment" : "peaceful guitar",
+        "url" : "https://open.spotify.com/playlist/37i9dQZF1DX0jgyAiPl8Af",
+        "state" : "using"
+      }
+    ],
+    "rock": [
+      {
+        "_comment" : "all new rock",
+        "url" : "https://open.spotify.com/playlist/37i9dQZF1DWZryfp6NSvtz",
+        "state" : "using"
+      },
+      {
+        "_comment" : "Rock frequency",
+        "url" : "https://open.spotify.com/playlist/37i9dQZF1DX14rbJEM3cke",
+        "state" : "using"
+      },
+      {
+        "_comment" : "fresh finds rock",
+        "url" : "https://open.spotify.com/playlist/37i9dQZF1DX78toxP7mOaJ",
+        "state" : "using"
+      },
+      {
+        "_comment" : "new noise",
+        "url" : "https://open.spotify.com/playlist/37i9dQZF1DWT2jS7NwYPVI",
+        "state" : "using"
+      },
+      {
+        "_comment" : "Rock classics",
+        "url" : "https://open.spotify.com/playlist/37i9dQZF1DWXRqgorJj26U",
+        "state" : "using"
+      },
+      {
+        "_comment" : "Legends only",
+        "url" : "https://open.spotify.com/playlist/37i9dQZF1DX5a39zUmS7Hn",
+        "state" : "using"
+      },
+      {
+        "_comment" : "The new alt",
+        "url" : "https://open.spotify.com/playlist/37i9dQZF1DX82GYcclJ3Ug",
+        "state" : "using"
+      }
+    ],
+    "country": [
+      {
+        "_comment" : "Hot country",
+        "url" : "https://open.spotify.com/playlist/37i9dQZF1DX1lVhptIYRda",
+        "state" : "using"
+      },
+      {
+        "_comment" : "new boots",
+        "url" : "https://open.spotify.com/playlist/37i9dQZF1DX8S0uQvJ4gaa",
+        "state" : "using"
+      },
+      {
+        "_comment" : "90s country",
+        "url" : "https://open.spotify.com/playlist/37i9dQZF1DWVpjAJGB70vU",
+        "state" : "using"
+      },
+      {
+        "_comment" : "chillin on a dirt road",
+        "url" : "https://open.spotify.com/playlist/37i9dQZF1DWTkxQvqMy4WW",
+        "state" : "using"
+      },
+      {
+        "_comment" : "country top 50",
+        "url" : "https://open.spotify.com/playlist/37i9dQZF1DX7aUUBCKwo4Y",
+        "state" : "using"
+      },
+      {
+        "_comment" : "country gold",
+        "url" : "https://open.spotify.com/playlist/37i9dQZF1DWYnwbYQ5HnZU",
+        "state" : "using"
+      },
+      {
+        "_comment" : "country's greatest hits",
+        "url" : "https://open.spotify.com/playlist/37i9dQZF1DWZBCPUIUs2iR",
+        "state" : "used"
+      },
+      {
+        "_comment" : "2000s country",
+        "url" : "https://open.spotify.com/playlist/37i9dQZF1DXdxUH6sNtcDe",
+        "state" : "used"
+      },
+      {
+        "_comment" : "2010s country",
+        "url" : "https://open.spotify.com/playlist/37i9dQZF1DWXdiK4WAVRUW",
+        "state" : "used"
+      },
+      {
+        "_comment" : "80s country",
+        "url" : "https://open.spotify.com/playlist/37i9dQZF1DX6RCydf9ytsj",
+        "state" : "used"
+      },
+      {
+        "_comment" : "Indigo",
+        "url" : "https://open.spotify.com/playlist/37i9dQZF1DWUgBy0IJPlHq",
+        "state" : "used"
+      },
+      {
+        "_comment" : "Next from nashville",
+        "url" : "https://open.spotify.com/playlist/37i9dQZF1DX0bUGQdz5BJG",
+        "state" : "used"
+      },
+      {
+        "_comment" : "Heartland country",
+        "url" : "https://open.spotify.com/playlist/37i9dQZF1DX5iKSDtVcf7Q",
+        "state" : "used"
+      },
+      {
+        "_comment" : "Texas country now",
+        "url" : "https://open.spotify.com/playlist/37i9dQZF1DX3Ee0ngF5ZVQ",
+        "state" : "used"
+      }
+    ],
+    "electronic": [
+      {
+        "_comment" : "dance party",
+        "url" : "https://open.spotify.com/playlist/37i9dQZF1DXaXB8fQg7xif",
+        "state" : "using"
+      },
+      {
+        "_comment" : "ultra gaming",
+        "url" : "https://open.spotify.com/playlist/37i9dQZF1DWYN9NBqvY7Tx",
+        "state" : "using"
+      },
+      {
+        "_comment" : "edm gay nghien",
+        "url" : "https://open.spotify.com/playlist/37i9dQZF1DWX3sGzKRxSTn",
+        "state" : "using"
+      },
+      {
+        "_comment" : "happy beats",
+        "url" : "https://open.spotify.com/playlist/37i9dQZF1DWSf2RDTDayIx",
+        "state" : "using"
+      },
+      {
+        "_comment" : "summer dance hits 2024",
+        "url" : "https://open.spotify.com/playlist/37i9dQZF1DWZ7eJRBxKzdO?si=578ffa4eadbf476e",
+        "state" : "using"
+      },
+      {
+        "_comment" : "power hour",
+        "url" : "https://open.spotify.com/playlist/37i9dQZF1DX32NsLKyzScr?si=fb6588f398b54cc6",
+        "state" : "using"
+      },
+      {
+        "_comment" : "deep house relax",
+        "url" : "https://open.spotify.com/playlist/37i9dQZF1DX2TRYkJECvfC?si=e5900072c99e4378",
+        "state" : "using"
+      },
+      {
+        "_comment" : "dance hits",
+        "url" : "https://open.spotify.com/playlist/37i9dQZF1DX0BcQWzuB7ZO?si=d63d04968c974928",
+        "state" : "using"
+      }
+
+    ],
+    "hiphop": [
+      {
+        "_comment" : "I love my 90s hip hop",
+        "url" : "https://open.spotify.com/playlist/37i9dQZF1DX186v583rmzp",
+        "state" : "using"
+      },
+      {
+        "_comment" : "Get turnt",
+        "url" : "https://open.spotify.com/playlist/37i9dQZF1DWY4xHQp97fN6",
+        "state" : "using"
+      },
+      {
+        "_comment" : "beast mode hiphop",
+        "url" : "https://open.spotify.com/playlist/37i9dQZF1DX9oh43oAzkyx",
+        "state" : "using"
+      },
+      {
+        "_comment" : "best rap songs of 2016",
+        "url" : "https://open.spotify.com/playlist/37i9dQZF1DWZSCnPqfx5XX",
+        "state" : "used"
+      },
+      {
+        "_comment" : "locked in",
+        "url" : "https://open.spotify.com/playlist/37i9dQZF1DWTl4y3vgJOXW",
+        "state" : "using"
+      },
+      {
+        "_comment" : "feelin myself",
+        "url" : "https://open.spotify.com/playlist/37i9dQZF1DX6GwdWRQMQpq",
+        "state" : "using"
+      },
+      {
+        "_comment" : "rap caviar",
+        "url" : "https://open.spotify.com/playlist/37i9dQZF1DX0XUsuxWHRQd",
+        "state" : "using"
+      },
+      {
+        "_comment" : "best rap songs of 2015",
+        "url" : "https://open.spotify.com/playlist/37i9dQZF1DXcqWbpeXswkc",
+        "state" : "used"
+      },
+      {
+        "_comment" : "gold school",
+        "url" : "https://open.spotify.com/playlist/37i9dQZF1DWVA1Gq4XHa6U?si=483e32d72f7f4cbd",
+        "state" : "using"
+      },
+      {
+        "_comment" : "global hiphop",
+        "url" : "https://open.spotify.com/playlist/37i9dQZF1DX2sQHbtx0sdt?si=80b6474224684edb",
+        "state" : "using"
+      },
+      {
+        "_comment" : "no cap",
+        "url" : "https://open.spotify.com/playlist/37i9dQZF1DX0Tkc6ltcBfU?si=b818f73fe2424cbf",
+        "state" : "using"
+      }
+    ],
+    "jazz": [
+      {
+        "_comment" : "goodmorning jazz",
+        "url" : "https://open.spotify.com/playlist/37i9dQZF1DX71VcjjnyaBQ",
+        "state" : "using"
+      },
+      {
+        "_comment" : "jazz for study",
+        "url" : "https://open.spotify.com/playlist/37i9dQZF1DX3SiCzCxMDOH",
+        "state" : "using"
+      }
+    ],
+    "classical": [
+      {
+        "_comment" : "Classical essentials",
+        "url" : "https://open.spotify.com/playlist/37i9dQZF1DWV0gynK7G6pD",
+        "state" : "using"
+      },
+      {
+        "_comment" : "Classical new releases",
+        "url" : "https://open.spotify.com/playlist/37i9dQZF1DWURCUKHUKWCX",
+        "state" : "used"
+      },
+      {
+        "_comment" : "Calming classical",
+        "url" : "https://open.spotify.com/playlist/37i9dQZF1DWVFeEut75IAL",
+        "state" : "using"
+      },
+      {
+        "_comment" : "Feel good classical",
+        "url" : "https://open.spotify.com/playlist/37i9dQZF1DX5Lm1ZiObdc3",
+        "state" : "using"
+      },
+      {
+        "_comment" : "Classical romance",
+        "url" : "https://open.spotify.com/playlist/37i9dQZF1DX4s3V2rTswzO",
+        "state" : "using"
+      },
+      {
+        "_comment" : "Epic classical",
+        "url" : "https://open.spotify.com/playlist/37i9dQZF1DX9G9wwzwWL2k",
+        "state" : "using"
+      },
+      {
+        "_comment" : "Pop goes classical",
+        "url" : "https://open.spotify.com/playlist/37i9dQZF1DWUPafHP1BJw1",
+        "state" : "using"
+      }
+    ]
+}
